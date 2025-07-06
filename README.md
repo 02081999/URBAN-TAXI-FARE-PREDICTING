@@ -124,5 +124,5 @@ Predicted Fare: $17.85
 
 ### 🏷️ Tags
 
-`#Pandas` `#EDA`  `#DataPreprocessing` `#MachineLearning `#RegressionModel` `#ModelEvaluation` `#StreamlitApp` `#Python` `#ScikitLearn` `#TrainTestSplit` `#UserInputInterface` `#haversineformula` `#taxifareprediction` `#datatransformation` `#modeloptimization`
+`#Pandas` `#EDA`  `#DataPreprocessing` `#MachineLearning` `#RegressionModel` `#ModelEvaluation` `#StreamlitApp` `#Python` `#ScikitLearn` `#TrainTestSplit` `#UserInputInterface` `#haversineformula` `#taxifareprediction` `#datatransformation` `#modeloptimization`
 
